@@ -1,0 +1,71 @@
+write a program to find a best of 2 test avg marks out of 3 test numbers accepted from user
+develop a pythom pgm to convert binary nummber into decimal ,octal and hex using functions
+Define a function F as Fn=Fn-1 + Fn-2. Write a python program which accepts a value for N (Where N>0) as input and pass this value to the  function.Display suitable error mesg if condition for ip value is not followed
+weite pgm to find stg similarity brtn 2 differrnt stg 
+write python pgm that accepts sentence and finds no. of words ,digits,Upper case ,lower case letters
+    *                                           
+    **
+    ***
+    ****
+    *****
+
+    *
+   **
+  ***
+ ****
+*****
+
+*****
+ ****
+  ***
+   **
+    *
+
+*****
+****
+***
+**
+*
+
+*****
+*****
+*****
+*****
+*****
+
+1
+12
+123
+1234
+12345
+
+1
+22
+333
+4444
+55555
+
+*****
+*   *
+*   *
+*   *
+*****
+
+*****
+** **
+* * *
+** **
+*****
+
+1 2  3  4
+5  6  7   8
+9 10 11 12
+13 14 15 16
+
+A A A A A
+A A A A A
+A A A A A 
+A A A A A 
+A A A A A  take input from users
+
+pgm to read stg from user and implement logic to remove character  which are at the odd no of index .
