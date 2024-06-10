@@ -72,3 +72,14 @@ pgm to read stg from user and implement logic to remove character  which are at 
 
 #list
 write a pgm to swap first and last element of list.
+
+Count the no. of occurences of a given item in a list.
+Wrie a pgm to count a unique value in the list.
+find out duplicate removal list product using list comprehension.
+write a pgn to extract elements witha  freq greater than k.
+write a pgm to test list contains elements in a range.
+pgm to demonstrate list intersection and union.
+write a pgm to merge 2 sorted list into a single sorted list.
+find the largest sub array sum of a given list.
+write a pgm to partition a list around a given value such that all elements less than the given value come before it and all elements greater than the given value come after it.
+find the peak elemeent in list of integer .peak element is element that is greater than or equal to its neighbor element.
