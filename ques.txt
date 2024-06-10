@@ -69,3 +69,6 @@ A A A A A
 A A A A A  take input from users
 
 pgm to read stg from user and implement logic to remove character  which are at the odd no of index .
+
+#list
+write a pgm to swap first and last element of list.

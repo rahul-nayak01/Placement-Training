@@ -1,0 +1,8 @@
+thislist=["apple", "banana", "cheese","Orange","Kiwi"]
+thislist.sort()
+print(thislist)
+
+
+thislist=["apple", "banana", "cheese","Orange","Kiwi"]
+thislist.sort(key=str.lower)
+print(thislist)
