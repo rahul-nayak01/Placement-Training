@@ -1,0 +1,13 @@
+no duplicate
+for loop  # for i in s: # cause there is no index in sets
+
+add
+update
+remove
+delete
+discard
+clear 
+pop
+
+
+union ,inntersection ,difference ,symmetric_difference(), inntersection_update, difference_update,symmetric_difference_update

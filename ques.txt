@@ -83,3 +83,9 @@ write a pgm to merge 2 sorted list into a single sorted list.
 find the largest sub array sum of a given list.
 write a pgm to partition a list around a given value such that all elements less than the given value come before it and all elements greater than the given value come after it.
 find the peak elemeent in list of integer .peak element is element that is greater than or equal to its neighbor element.
+ imp:
+ count()
+ reverse()
+ index()
+ copy()
+ sort()

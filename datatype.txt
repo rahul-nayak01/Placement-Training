@@ -1,4 +1,4 @@
 list---oredered,changable/mutable,duplicate.
 tuple-ordered,duplicate
-set-chane,
-dict---oredered,changable/mutable
+set-unordere,chane,no dupli
+dict---oredered,changable/mutable,no dup
