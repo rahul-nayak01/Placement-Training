@@ -90,4 +90,8 @@ find the peak elemeent in list of integer .peak element is element that is great
  copy()
  sort()
 
- Given an array of n numbers and another number x the task is to check whether or not there exist 2 element in the array whose exact sum is x. 
+ Given an array of n numbers and another number x the task is to check whether or not there exist 2 element in the array whose exact sum is x. 4
+
+ #oops
+
+ wrire a py pgm to create a cart representing shopping cart.Include methods for adding and removing items and calculating total price.

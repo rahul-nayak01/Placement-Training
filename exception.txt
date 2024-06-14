@@ -1,0 +1,15 @@
+error(stop execution);
+
+compile
+:syntax
+:indentation
+:logical error
+:name errors
+
+Run time error:(exception) this can be handled.
+:type error
+:value error
+:index ot of bound
+:file not found
+:key errror
+:div by 0
