@@ -3,6 +3,10 @@ try:
 
 except ExcptionType1:
 except ExcptionType2:
+
+#custom exception
+except Exception as e: 
+    print("Unexcpected error",e)
 else:
 
 finally:
