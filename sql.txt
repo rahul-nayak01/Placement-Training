@@ -1,0 +1,47 @@
+Data defination lang:defines the structure of table like create, delete ,alter table
+Create-used to create a new table.   ex- Create table tablename;
+alter-used to alter attribute or add new attribute. ALTER TABLE tablename ADD columnname COLUMN-defination  #ALTER TABLE tablename MODIFY(column_defination)
+drop-delete both the structure and record present in the table. ex- DROP DATABASE db_name;
+truncate- delete all table entries
+
+Table-Relation
+Rows-Tuples
+columns- Attribute
+
+DML - used to modify database
+#dml do not permanently save changes ,they can be rolled back
+used to insert data into row of table
+INSERT INTO TABLE_NAME 
+VALUES (val1,.....);
+
+UPDATE TABLE_NAME
+SET []
+[WHERE CONDITION]
+
+DELETE FROM table_name [WHERE CONDITION];
+
+GRANT SELECT ,UPDATE ON MY_TABLE TO SOME_USER,ANOTHER_USER;
+REVOKE SELECCT,UPDATE ON MY_TABLE FROM USER1,USER2;
+
+ROLLBACK UNDO  TRANSACTION THAT HAS NOT ALREADY BEEN SAVED 
+USED TO ROLL TRANSACTION BACK TO CERTAIN POINT WITHOUT ROLLING BACK ENTIRE TRANSACTION    SAVEPOINT SAVEPOINT_NAME;
+
+DQL-FETCHS
+SELECT-SELECT ATTRUIBUTE BASED ON CON IN THE WHERE CLAUSE.
+
+convertint to decumal
+string of integers into decumal
+revesing strg using extended slicing technique
+count vowels
+fibonnaci 
+max and min no of list without max and min func
+comparing 2 string anagrams
+palindrome using extended slicing technique
+pyramid pattern 
+sentiment analysis
+
+it shd analyse sentiment of ip using textblog
+sentiment analysis shd include determining polarity 
+pgm shd categorize statement as +-= based on polarity it shd display sentiment category which +-=and polarity value in range-1 to1
+
+given an array of strings words and width max width format text such that each line has exactly max width character and is fully justified u shd pack ur words in greedy approach that is pack as many line as u can pad extra spaces than nessasary sothat each line has max width charcater extra sppaces betn words shd be distributed as evenly a posible. if the number of spaces does not divide evenly betn words , empty slots in left more spaces than slots on the right for te last line of text it shd be left justified and no space inserted betn words.

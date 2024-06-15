@@ -15,3 +15,5 @@ def window_count(arr, key):
 if __name__ == '__main__':
     main()
 
+#equlibrium index is index such that sum of ele at lower index is equal to sumof  index at higher indices ex- array[-7,1,2,-4,3,0] o/p is 3
+#else if no such point exists return -1
